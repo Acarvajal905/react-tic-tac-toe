@@ -60,7 +60,7 @@ export default class Game extends Component {
 
         return (
             <div>
-                <h1>TIC TAC TOE</h1>
+                <h1 className="main-title">TIC TAC TOE</h1>
                 <div className='game'>
                     <div className='game-board'>
                         <Board onClick={(i) => this.handleClick(i)}
