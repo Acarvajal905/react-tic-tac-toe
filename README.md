@@ -6,5 +6,4 @@ npm install and npm start
 
 or just go to 
 
-https://github.com/Acarvajal905/react-tic-tac-toe
-
+https://acarvajal905.github.io/react-tic-tac-toe/
